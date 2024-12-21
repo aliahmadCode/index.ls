@@ -1,2 +1,2 @@
 # index.ls
-Tring to write a bad compiler
+Trying to write a bad compiler
