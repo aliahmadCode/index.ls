@@ -1,6 +1,5 @@
 /*
  *  an example code for compiler
- *  i am personally a very bad programmer, so i am trying to write some code
  * */
 #include <ctype.h>
 #include <math.h>
